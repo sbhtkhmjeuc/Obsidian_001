@@ -1,0 +1,3 @@
+# How to Set Goals the Smart Way
+
+Tags: #📥/🎥/🟨 Links : [[Jordan Peterson]] URL : [Jordan Peterson: How to Set Goals the Smart Way - YouTube](https://www.youtube.com/watch?v=5WX9UEYZsR8) Date : Thursday 27th January 2022, Thu Last Modified : Thursday 27th January 2022 17:03 * **# How to Set Goals the Smart Way - Set high aim, but break it down, so you will know what the next step is. - the next step need to be difficult enough that you will work hard to achive, but still achivable. - ==“Make today better than yesterday”== - Compare yourself to yourself yesterday, any day be an** increment better**. - “He Who has a WHY, can bare almost any WHO” - Target : a life that would be worth the saffering and the pain.

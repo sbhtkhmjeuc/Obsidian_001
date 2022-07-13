@@ -1,0 +1,4 @@
+# Web3, Blockchain, cryptocurrency a threat or an opportunity Shermin Voshmgir  TEDxCERN
+
+Status : #📥/🎥/🟥
+Links : [[Web 3.0]] - [[Blockchain]] URL :[Web3, Blockchain, cryptocurrency: a threat or an opportunity? | Shermin Voshmgir | TEDxCERN - YouTube](https://www.youtube.com/watch?v=JPGNvKy6DTA&t=21s&ab_channel=TEDxTalks) Date: *** # Web3, Blockchain, cryptocurrency a threat or an opportunity Shermin Voshmgir TEDxCERN ## Web 3.0 and Blockchain in [[What Exactly is Web3 by Juan Benet at Web3 Summit 2018]] the speaker said that one of the biggest charactarictics of web 3.0 is Verifiability and Trust, Shermin Voshmgir giving a great expenation

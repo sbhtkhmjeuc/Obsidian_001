@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Obsidian gruvbox",
+  "translucency": false,
+  "textFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "Cascadia Mono",
+  "monospaceFontFamily": "Cascadia Mono",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true
+}

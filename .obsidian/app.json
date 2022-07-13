@@ -1,0 +1,15 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "showIndentGuide": true,
+  "lineWrap": true,
+  "autoConvertHtml": true
+}
