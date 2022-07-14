@@ -16,5 +16,14 @@
       ],
       "key": "H"
     }
+  ],
+  "highlightr-plugin:Grey": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
   ]
 }

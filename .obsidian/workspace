@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4d43870f825f585f",
+        "id": "359bad4d4e296f54",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "9942344cca71f663",
@@ -87,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solidity Tourorial.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "38a5d0be1bab10ac",
@@ -137,17 +137,17 @@
     "direction": "horizontal",
     "width": 250.5
   },
-  "active": "bdc1c185881ff083",
+  "active": "359bad4d4e296f54",
   "lastOpenFiles": [
+    "DeFi index.md",
     "Solidity Tourorial.md",
+    "Daily Notes/2022-07-14.md",
+    "Daily Notes/2022-07-13.md",
     "PowerShell Course.md",
     "How to create a self signed cert using Powershell in Windows Server 2016.md",
     "Mother Board.md",
-    "Daily Notes/2022-07-13.md",
     "Ethereum LAYER 2 SCALING Explained.md",
     "softpeg.png",
-    "uni.md",
-    "Uniswap DOC.md",
-    "Templates/Daily Template.md"
+    "uni.md"
   ]
 }
