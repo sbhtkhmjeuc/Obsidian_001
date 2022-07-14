@@ -12,10 +12,9 @@
 
 ## Evening
 - [ ]  Brush Teeth
-- [x]  Review Google Keep 
-- [x]  Organize the Next Day
-- [x]  Check the Work Out for tomorrow
+- [ ]  Review Google Keep 
+- [ ]  Organize the Next Day
+- [ ]  Check the Work Out for tomorrow
 - [ ]  Reading a Book
 - [ ]  Vacuum the room 
 
-232235465

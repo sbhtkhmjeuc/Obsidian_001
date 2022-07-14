@@ -241,6 +241,7 @@ the WPA uses the RSN with two new protocols: The 4-way Handshake & Group Key Han
 
 **WPA2-Personal (WPA-PSK Pre-Shared Key)**
 
+
 **Personal-Mixed** - means that we can income WPA and WPA2 Clients on the same seed.  
 
 ---
@@ -252,6 +253,7 @@ requires a Radius Authentication,
 Extensible Authentication Protocol (**EAP**) - 
 
 **WPA/WPA2 Handshake Issue Password Cracking Attacks** 
+
 
 **CowPatty** - Tool for Brut-force & Dict attacks on a **WPA/WPA2**.   
 
