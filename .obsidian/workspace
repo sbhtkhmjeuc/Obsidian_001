@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PowerShell Course.md",
+            "file": "Solidity Tourorial.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PowerShell Course.md",
+                "file": "Solidity Tourorial.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +139,7 @@
   },
   "active": "4d43870f825f585f",
   "lastOpenFiles": [
+    "PowerShell Course.md",
     "Solidity Tourorial.md",
     "Mother Board.md",
     "Daily Notes/2022-07-13.md",
@@ -147,7 +148,6 @@
     "uni.md",
     "Uniswap DOC.md",
     "Templates/Daily Template.md",
-    "Linear Algebra.md",
-    "Untitled.md"
+    "Linear Algebra.md"
   ]
 }
