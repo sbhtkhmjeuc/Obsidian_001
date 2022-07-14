@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mother Board.md",
+            "file": "Solidity Tourorial.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solidity Tourorial.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
     "direction": "horizontal",
     "width": 250.5
   },
-  "active": "070a680d9f85d439",
+  "active": "4d43870f825f585f",
   "lastOpenFiles": [
     "Mother Board.md",
     "Daily Notes/2022-07-13.md",
