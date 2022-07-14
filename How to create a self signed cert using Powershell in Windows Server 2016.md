@@ -1,4 +1,4 @@
-# How to create a self signed cert using Powershell in Windows Server 2016
+# How to create a self signed cert using PowerShell in Windows Server 2016
 Type : #t/YouTube
 Time Created : 2022-06-07 06:11
 Last Modified : 2022-06-07 06:11

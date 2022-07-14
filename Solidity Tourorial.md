@@ -7,8 +7,4 @@ Progress: #p/🟠
 URL: 
 Priority: #i/🟧 
 
-Shit shit
-
-dcsdcsdcsdc645sdc
-sdc43sd54c5s4c35sd4csd
-csd47c5sd4c6sdc16
+45444

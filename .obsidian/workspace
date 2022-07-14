@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "9942344cca71f663",
@@ -140,6 +141,7 @@
   "active": "4d43870f825f585f",
   "lastOpenFiles": [
     "PowerShell Course.md",
+    "How to create a self signed cert using Powershell in Windows Server 2016.md",
     "Solidity Tourorial.md",
     "Mother Board.md",
     "Daily Notes/2022-07-13.md",
@@ -147,7 +149,6 @@
     "softpeg.png",
     "uni.md",
     "Uniswap DOC.md",
-    "Templates/Daily Template.md",
-    "Linear Algebra.md"
+    "Templates/Daily Template.md"
   ]
 }
