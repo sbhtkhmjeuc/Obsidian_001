@@ -87,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidity Tourorial.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,11 +137,11 @@
     "direction": "horizontal",
     "width": 250.5
   },
-  "active": "4d43870f825f585f",
+  "active": "bdc1c185881ff083",
   "lastOpenFiles": [
+    "Solidity Tourorial.md",
     "PowerShell Course.md",
     "How to create a self signed cert using Powershell in Windows Server 2016.md",
-    "Solidity Tourorial.md",
     "Mother Board.md",
     "Daily Notes/2022-07-13.md",
     "Ethereum LAYER 2 SCALING Explained.md",

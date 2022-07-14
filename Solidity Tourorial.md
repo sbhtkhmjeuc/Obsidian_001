@@ -6,5 +6,3 @@ Subjects: #s/DeFi
 Progress: #p/🟠 
 URL: 
 Priority: #i/🟧 
-
-45444
