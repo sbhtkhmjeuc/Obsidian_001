@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Solidity Tourorial.md",
+            "file": "PowerShell Course.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidity Tourorial.md",
+                "file": "PowerShell Course.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +139,7 @@
   },
   "active": "4d43870f825f585f",
   "lastOpenFiles": [
+    "Solidity Tourorial.md",
     "Mother Board.md",
     "Daily Notes/2022-07-13.md",
     "Ethereum LAYER 2 SCALING Explained.md",
@@ -147,7 +148,6 @@
     "Uniswap DOC.md",
     "Templates/Daily Template.md",
     "Linear Algebra.md",
-    "Untitled.md",
-    "DeFi Index.md"
+    "Untitled.md"
   ]
 }
