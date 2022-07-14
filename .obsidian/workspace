@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "1484b16ff9f7e042",
+    "id": "158a37f1f3a6c303",
     "type": "split",
     "children": [
       {
-        "id": "359bad4d4e296f54",
+        "id": "0ba508c091b04379",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -20,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fd32ab6b63c86007",
+    "id": "d128d8f4a109f8fb",
     "type": "split",
     "children": [
       {
-        "id": "b3753617f4d27b1d",
+        "id": "18529875cb14fca0",
         "type": "tabs",
         "children": [
           {
-            "id": "1bc55641b4129f4e",
+            "id": "e86cc3fbd78670cd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,15 +36,7 @@
             }
           },
           {
-            "id": "72cc5a4a2ee5716f",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "eb96f050e8103cd0",
+            "id": "48c481382eb0727e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,51 +46,59 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "b911ea202e93ce25",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 300
   },
   "right": {
-    "id": "9942344cca71f663",
+    "id": "a1bc7890733e3b38",
     "type": "split",
     "children": [
       {
-        "id": "b5fd2863ce5da3c5",
+        "id": "e3d920553ad89b71",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc5cc65ed0b50b3",
+            "id": "0126d9ce6f6e8b78",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "070a680d9f85d439",
+            "id": "14522fb869fa92bb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "Solidity Tourorial.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dfc339063f135e04",
+            "id": "a865d5c408b78db7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -107,47 +107,14 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "b93d1b6afeea35b8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "38a5d0be1bab10ac",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bdc1c185881ff083",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 300,
+    "collapsed": true
   },
-  "active": "359bad4d4e296f54",
-  "lastOpenFiles": [
-    "DeFi index.md",
-    "Solidity Tourorial.md",
-    "Daily Notes/2022-07-14.md",
-    "Daily Notes/2022-07-13.md",
-    "PowerShell Course.md",
-    "How to create a self signed cert using Powershell in Windows Server 2016.md",
-    "Mother Board.md",
-    "Ethereum LAYER 2 SCALING Explained.md",
-    "softpeg.png",
-    "uni.md"
-  ]
+  "active": "0ba508c091b04379",
+  "lastOpenFiles": []
 }
