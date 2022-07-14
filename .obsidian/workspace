@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mother Board.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "38a5d0be1bab10ac",
@@ -136,10 +136,10 @@
     "direction": "horizontal",
     "width": 250.5
   },
-  "active": "4d43870f825f585f",
+  "active": "070a680d9f85d439",
   "lastOpenFiles": [
-    "Daily Notes/2022-07-13.md",
     "Mother Board.md",
+    "Daily Notes/2022-07-13.md",
     "Ethereum LAYER 2 SCALING Explained.md",
     "softpeg.png",
     "uni.md",
