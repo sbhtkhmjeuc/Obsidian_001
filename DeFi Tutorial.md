@@ -59,3 +59,8 @@ for the Blockchain to be tampered you need to ran all of the blocks hash's that 
 (because the Time to Mine one Bitcoin Block is 10 min, it will take a lot of time to re-calculate the blockchain, which by design ment to be impossible for hacker to not temper with the Blockchain.)
 
 <mark style="background: #CACFD9A6;">The Bigger the Network, the More Secure it is</mark> 
+
+<mark style="background: #CACFD9A6;">Mining</mark>  - the process of finding the "solution"  to the Blockchain "Problem", the entities that find the Solutions called **Nodes**. 
+
+<mark style="background: #CACFD9A6;">in the Blockchain the Majority Rules.</mark> [[51% Attack On Blockchain]]
+
