@@ -99,6 +99,21 @@
             }
           },
           {
+            "id": "db3521c41f9ec9e2",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "638ce166c208cd27",
+        "type": "tabs",
+        "children": [
+          {
             "id": "8282615f48cfc62d",
             "type": "leaf",
             "state": {
@@ -108,17 +123,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "db3521c41f9ec9e2",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
