@@ -106,9 +106,17 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "0b0fab0c5e249fbb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1b2434671d98b80a",
@@ -139,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-07-16.md",
+                "file": "Important Projects (Kanabn).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,10 +165,10 @@
     "direction": "horizontal",
     "width": 254
   },
-  "active": "187e0862b6123cac",
+  "active": "b182a1b24592a164",
   "lastOpenFiles": [
-    "Important Projects (Kanabn).md",
     "Daily Notes/2022-07-16.md",
+    "Important Projects (Kanabn).md",
     "Practical Threat Hunting With Machine Learning.md",
     "Templates/Day Planner.md",
     "Templates/Daily Template.md",
