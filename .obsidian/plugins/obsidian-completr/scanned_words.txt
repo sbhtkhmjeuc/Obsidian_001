@@ -87,6 +87,7 @@ Data
 Durability
 Disaster
 Development
+Docs
 https
 hacks
 here
@@ -186,6 +187,7 @@ BREAK
 Bullshit
 Burning
 Benefits
+Blockchain
 xEc
 top
 tools
@@ -335,6 +337,7 @@ fault
 failure
 fill
 framework
+faucet
 Top
 The
 Tags
@@ -407,6 +410,7 @@ info
 isolated
 index
 idea
+io
 Personal
 Projects
 Page
@@ -434,6 +438,7 @@ PoP
 Plan
 PowerShell
 Practical
+Programming
 AI
 Achievements
 Action
@@ -492,6 +497,7 @@ Landscape
 List
 Local
 Length
+Language
 OPNsense
 Opportunities
 Organize
@@ -530,6 +536,7 @@ Virginia
 Visualized
 VS
 Valuable
+Vyper
 Ideas
 Index
 If
@@ -553,6 +560,7 @@ Wave
 Workout
 With
 Why
+Web
 Complete
 Currently
 Cybersecurity
@@ -587,6 +595,7 @@ CloudFormation
 CDK
 Creation
 CyberDefence
+Chainlink
 Home
 Highest
 How
@@ -620,6 +629,7 @@ ensure
 entire
 every
 employ
+ethereum
 Not
 Number
 No
@@ -681,6 +691,7 @@ Sustainability
 Station
 SDK
 SANS
+Solidity
 more
 make
 my
@@ -740,6 +751,8 @@ room
 reach
 root
 reference
+rinkeby
+remix
 usual
 use
 update

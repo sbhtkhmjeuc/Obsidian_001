@@ -5,7 +5,14 @@
       {
         "title": "Learn OPNsense from here (https://docs.opnsense.org/) and configure the firewall in VirtualBox",
         "time": "2022-07-23",
-        "rowNumber": 16
+        "rowNumber": 14
+      }
+    ],
+    "Daily Notes/2022-07-17.md": [
+      {
+        "title": "Create a Protocol to Work with the Calender, Kanban & reminders",
+        "time": "2022-07-17",
+        "rowNumber": 8
       }
     ]
   },
