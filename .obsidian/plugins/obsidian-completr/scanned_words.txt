@@ -186,6 +186,8 @@ BREAK
 Bullshit
 Burning
 Benefits
+Board
+Brush
 xEc
 top
 tools
@@ -223,6 +225,7 @@ tier
 type
 threat
 techniques
+table
 smart
 searchsecurity
 security
@@ -357,6 +360,7 @@ Tier
 Tools
 ToolKit
 Threat
+Teeth
 attacks
 and
 assessment
@@ -391,6 +395,7 @@ across
 associated
 an
 assets
+achieve
 issues
 in
 indices
@@ -434,6 +439,9 @@ PoP
 Plan
 PowerShell
 Practical
+Planning
+Pray
+Protocol
 AI
 Achievements
 Action
@@ -481,6 +489,8 @@ Models
 Multi
 Management
 Minimalist
+Mother
+Mediation
 Learn
 Lowest
 Learning
@@ -503,6 +513,7 @@ On
 Open
 Output
 Options
+Out
 opnsense
 org
 on
@@ -530,6 +541,7 @@ Virginia
 Visualized
 VS
 Valuable
+Vacuum
 Ideas
 Index
 If
@@ -553,6 +565,7 @@ Wave
 Workout
 With
 Why
+Written
 Complete
 Currently
 Cybersecurity
@@ -632,6 +645,7 @@ North
 Network
 Name
 Night
+Next
 Finished
 Fix
 FF
@@ -768,6 +782,7 @@ Economy
 Elasticity
 Each
 EAST
+Eat
 lemonade
 lazy
 leave
@@ -793,6 +808,7 @@ zones
 Your
 YouTube
 You
+Yoga
 Goal
 Guest
 Gmail
@@ -805,6 +821,7 @@ Kali
 Knows
 Kit
 Keys
+Keep
 JYwy
 Jump
 URL

@@ -11,10 +11,10 @@
 - [x]  Read the "獨行道"
 
 ## Evening
-- [ ]  Brush Teeth
+- [x]  Brush Teeth
 - [x]  Review Google Keep 
 - [x]  Organize the Next Day
 - [x]  Check the Work Out for tomorrow
-- [ ]  Reading a Book
+- [x]  Reading a Book
 - [x]  Vacuum the room 
 
