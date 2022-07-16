@@ -1,10 +1,12 @@
 [
-  "templater-obsidian",
   "table-editor-obsidian",
   "sliding-panes-obsidian",
   "tag-wrangler",
   "highlightr-plugin",
-  "calendar",
   "periodic-notes",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-completr",
+  "obsidian-reminder-plugin",
+  "calendar",
+  "nldates-obsidian"
 ]

@@ -1,0 +1,31 @@
+{
+  "scanned": true,
+  "reminders": {
+    "Important Projects (Kanabn).md": [
+      {
+        "title": "Learn OPNsense from here (https://docs.opnsense.org/) and configure the firewall in VirtualBox",
+        "time": "2022-07-23",
+        "rowNumber": 16
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "00:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": true,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

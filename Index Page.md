@@ -2,10 +2,11 @@
 000 - [[Mother Board]]
 001 - [[Weekly Assessment (Template)]] | [[Daily Assessment Review (Template)]]
 002 - [[Books to Read]] 
-003 - [[Important Projects]]
+003 - [[Important Projects (Kanabn)]]
 004 - [[Cybersecurity Index]]
 005 - [[Budget]]
 006 - [Collage Notion Notebook](https://www.notion.so/Home-Page-92c3f82f03a548978524d494c41b4edd)
+007 - [[DeFi index]]
 
 
 Progresses indices :
@@ -31,3 +32,4 @@ Tags :
 #y/ - number is year in the weekly assessment
 
 If there's a tags with more than two words, they will be separated with a `-`.
+

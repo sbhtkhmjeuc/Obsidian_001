@@ -4,11 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "bb8b85ad048f4dc7",
+        "id": "187e0862b6123cac",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/2022-07-16.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b182a1b24592a164",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Important Projects (Kanabn).md"
+          }
         }
       }
     ],
@@ -36,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Practical Threat Hunting With Machine Learning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 247,
     "collapsed": true
   },
   "right": {
@@ -69,29 +84,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0126d9ce6f6e8b78",
+            "id": "a11ec017c9dd58be",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
           {
-            "id": "14522fb869fa92bb",
+            "id": "08de7642e58a6f73",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "timeline",
+              "state": {}
             }
           },
+          {
+            "id": "6712e540f2f3d852",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1b2434671d98b80a",
+        "type": "tabs",
+        "children": [
           {
             "id": "a865d5c408b78db7",
             "type": "leaf",
@@ -102,26 +124,50 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "ad589b2fabc92ce4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "14522fb869fa92bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2022-07-16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 254
   },
-  "active": "bb8b85ad048f4dc7",
+  "active": "187e0862b6123cac",
   "lastOpenFiles": [
-    "Courses/Complete DApp - Solidity & React - Blockchain Deve.md",
+    "Important Projects (Kanabn).md",
+    "Daily Notes/2022-07-16.md",
     "Practical Threat Hunting With Machine Learning.md",
-    "DeFi Tutorial.md",
-    "Mother Board.md",
-    "51% Attack On Blockchain.md",
-    "Important Projects.md",
-    "DeFi index.md",
-    "Daily Notes/2022-07-15.md",
+    "Templates/Day Planner.md",
+    "Templates/Daily Template.md",
+    "Day Planners/Day Planner-20220716.md",
     "Index Page.md",
-    "Daily Notes/2022-07-14.md"
+    "AWS Certified Cloud Practitioner Certification Course (CLF-C01).md",
+    "Day Planners/2022-07-16.md",
+    "30 5.md"
   ]
 }
