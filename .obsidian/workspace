@@ -7,26 +7,8 @@
         "id": "bb8b85ad048f4dc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DeFi Tutorial.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "59f0c1b1a3caf22a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mother Board.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -54,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WPA/WPA2",
+                "query": "Practical Threat Hunting With Machine Learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mother Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "59f0c1b1a3caf22a",
+  "active": "bb8b85ad048f4dc7",
   "lastOpenFiles": [
+    "Courses/Complete DApp - Solidity & React - Blockchain Deve.md",
+    "Practical Threat Hunting With Machine Learning.md",
     "DeFi Tutorial.md",
+    "Mother Board.md",
     "51% Attack On Blockchain.md",
     "Important Projects.md",
     "DeFi index.md",
     "Daily Notes/2022-07-15.md",
     "Index Page.md",
-    "Daily Notes/2022-07-14.md",
-    "Courses/The Complete Cyber Security Course Network Securit.md",
-    "Mother Board.md",
-    "Mother.md"
+    "Daily Notes/2022-07-14.md"
   ]
 }
