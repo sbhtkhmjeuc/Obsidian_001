@@ -1666,6 +1666,7 @@ Hydra
 HSM
 Hardware
 Hashcat
+Hour
 edd
 earlier
 experiences
@@ -1862,6 +1863,8 @@ Referred
 Report
 Rule
 Rainbow
+Rooms
+Reminder
 Subjects
 Setup
 Suffering
