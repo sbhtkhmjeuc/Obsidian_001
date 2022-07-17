@@ -25,3 +25,7 @@ In addition, the users’ transactions may not be confirmed or even be reversed 
 A 34% attack alters the blockchain’s ledger, which is responsible for validating a transaction using an algorithm known as the Tangle consensus.
 
 A 51% attack, on the other hand, grants an attacker complete control of the blockchain network. This, in turn, can stop further mining's or coin re-usability.
+
+## Ways to prevent the attack
+**Strong Community** - When using the PoS or DPoS, a user with a minimal stake level in a network is voted a block validator. The validators are voted in by the community. In case of collusion to compromise the network, they are thrown out of the network by the community. 
+**Using PoS** - the ides behind PoS can prevent completely the 51% attack.

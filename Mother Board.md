@@ -12,6 +12,7 @@
 
 ## Evening
 - [x]  Brush Teeth
+- [ ] Review [[Important Projects (Kanabn)]] for tasks for tomorrow
 - [x]  Review Google Keep 
 - [x]  Organize the Next Day
 - [x]  Check the Work Out for tomorrow
