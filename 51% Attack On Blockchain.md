@@ -24,4 +24,4 @@ In addition, the users’ transactions may not be confirmed or even be reversed 
 ### Comparing a 51% attack with a 34% attack
 A 34% attack alters the blockchain’s ledger, which is responsible for validating a transaction using an algorithm known as the Tangle consensus.
 
-A 51% attack, on the other hand, grants an attacker complete control of the blockchain network. This, in turn, can stop further minings or coin re-usability.
+A 51% attack, on the other hand, grants an attacker complete control of the blockchain network. This, in turn, can stop further mining's or coin re-usability.

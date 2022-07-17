@@ -56,7 +56,7 @@ the miners are basically trying to find a hash for the data that they got provid
 
 in the real Blockchain, to create a Block-Chain, the Previous Hash is also a part of the current Block and also getting into the Hash Function,  so if the someone is to change something in the data of the block, the data of the current block will get invalid, and the next block all the way down to the latest block, and because of the large scale of Ethereum to re calculate all of the Block will take a lot of time which the hacker won't be able to outran the real Ethereum network.     
 for the Blockchain to be tampered you need to ran all of the blocks hash's that is being created from the moment and on, and you have to have the majority of the Blockchain peers (**51% or more**) to agree with you on the transactions. 
-(because the Time to Mine one Bitcoin Block is 10 min, it will take a lot of time to re-calculate the blockchain, which by design ment to be impossible for hacker to not temper with the Blockchain.)
+(because the Time to Mine one Bitcoin Block is 10 min, it will take a lot of time to re-calculate the blockchain, which by design meant to be impossible for hacker to not temper with the Blockchain.)
 
 <mark style="background: #CACFD9A6;">The Bigger the Network, the More Secure it is</mark> 
 
@@ -64,3 +64,34 @@ for the Blockchain to be tampered you need to ran all of the blocks hash's that 
 
 <mark style="background: #CACFD9A6;">in the Blockchain the Majority Rules.</mark> [[51% Attack On Blockchain]]
 
+in the block there are transactions, to verify a transaction the Blockchain uses Private & Public Keys 
+(**Private Key** - only known to the key owner, it's used to "Sign" Transactions, **Public Key** - it's a key that everyone can see but it's assigned to you and connected Mathematically to your Private Key), Ethereum and Bitcoin both use the **ECDSA** (Elliptic Curve Digital Signature Algorithm), to make the Private and Public keys. 
+once you make a transaction (**You send Someone Money**) you need to sign it with your private key, because you private key is mathematically connected to you public key and assuming your private key is only in the original owner, any one can just get the public key and the hash of the transaction and if the message that got out is readable you can assume that the person who's the public keys is signed it with a private key and the transaction made by him.
+
+<mark style="background: #CACFD9A6;">the address of the Account is a some derivative of the Public Key</mark> 
+<mark style="background: #BBFABBA6;">Private Key > Public Key > Address</mark> 
+
+### How the Ethereum Blockchain Works
+<mark style="background: #CACFD9A6;">Node</mark> - is **a computer running Ethereum client software**. A client is an implementation of Ethereum that verifies all transactions in each block, keeping the network secure and the data accurate.
+<mark style="background: #CACFD9A6;">Consensus</mark> - is the mechanism used to agree on the state of Blockchain.
+the Consensus Protocol is built from pieces: 
+<mark style="background: #CACFD9A6;">Chain Selection</mark> - is a rule to determine which blockchain is the real Blockcain.
+in Ethereum and Bitcoin uses the <mark style="background: #BBFABBA6;">Nakamoto Consensus</mark> which says that the Longer Blockchain (the one that has the most "work" in Computational power put on it) is the real one. (This is assuming that the most of the nodes are writing the "Good & Right" Blockchain and if one of the nodes tries to mess up, his Computational power compare to the rest of the Nodes that exist is very Minimal so he can't over calculate the Real Blockchain).
+
+<mark style="background: #CACFD9A6;">Block Confirmation</mark> - refers to the number of blocks that were created on a Certain Block, <mark style="background: #BBFABBA6;">in the Longest Chain</mark>.  
+
+<mark style="background: #CACFD9A6;">Sybil Resistance Attack</mark> - (**PoW** / **PoS**) is defending against one person or entity attempts to get an unfair advantage in a system or network by creating many identities or nodes cheaply by using the **Pow** (Proof of Work) and **PoS** (Proof of Stake).
+<mark style="background: #CACFD9A6;">51% Attack</mark>  - [[51% Attack On Blockchain]]
+
+<mark style="background: #CACFD9A6;">Proof of Work</mark> - (**Miners**)is a Mathematical process that a Miner needs to go through to find the hash that is right for a certain block, PoW works because no matter how much nodes you created each one needs to go this process of finding the "Nonce" of the block. In PoW all of the nodes going for a "Race" to find a right "Nonce" for the Block, the Node how finds the right "Nonce" being rewarded with a <mark style="background: #BBFABBA6;">Transaction Fee</mark> and in some cases with a <mark style="background: #BBFABBA6;">Block Reward</mark>, Because all of the nodes are racing for this one block each time a lot of computation power goes to waist. 
+
+<mark style="background: #CACFD9A6;">Block Time</mark> - is the time between each block that is being created, the Longer the Block time the more secure the Blockchain from Sybil Attacks.
+
+<mark style="background: #CACFD9A6;">Proof of Stake</mark> - (**Validators**) is also like PoW a Sybil Mechanism, but in this Protocol not everyone races to find the Block "Nonce", in this case each Node puts a Collateral (**Stake**) to be able to validate transactions, the Blockchain by a Pseudorandom Process selects each time that a new Block is created a Node which one he can Validate the Block, if the nodes succeeded and validated the Block he gets a <mark style="background: #BBFABBA6;">Transaction Fee</mark> which is added to their collateral, and if the Node can't validate the Block an amount of Tokens is taken from his Collateral and the Block gets a Different Node in Random again. Because the Validators are being chosen one at a time, there's a lot less Computational power going to waist, <mark style="background: #BBFABBA6;">PoS will be on ETH 2.0</mark> .
+
+<mark style="background: #CACFD9A6;">Transaction Fee</mark> - is the "Gas" Price that the sender is paying for the transaction. (you can get Transaction Fee both in **PoW** and **PoS**)
+<mark style="background: #CACFD9A6;">Block Reward</mark>  - is the reward that the Miners get from the Blockchain it self. (the Block Reward is increasing the circulation of the Block Reward (Bitcoin, ETH ...))
+
+we said earlier that the Gas Price is a demonstration of the Demand in the market, and because there is a limit for computational power in the Nodes, and more people wants to make transaction the Gas Price will go up (because is will get more expensive to make a transaction in the block chain).
+<mark style="background: #CACFD9A6;">Sharding</mark> - **Blockchain of blockchains** ,the horizontal spread of processing power instead of continuously adding it to one blockchain, in ETH 1.0 and Bitcoin you can use <mark style="background: #BBFABBA6;">Layer 2 Solutions</mark> ([[Ethereum LAYER 2 SCALING Explained]]) to do that, when ETH 2.0 will come out this problem will be treated because the blockchain can start multiple "Races" at once and create blocks faster. 
+## Welcome to Remix

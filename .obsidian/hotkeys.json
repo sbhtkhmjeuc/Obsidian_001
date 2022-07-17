@@ -17,7 +17,6 @@
       "key": "H"
     }
   ],
-  "highlightr-plugin:Grey": [],
   "highlightr-plugin:Blue": [
     {
       "modifiers": [
@@ -69,6 +68,15 @@
         "Alt"
       ],
       "key": "E"
+    }
+  ],
+  "highlightr-plugin:Grey": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
     }
   ]
 }

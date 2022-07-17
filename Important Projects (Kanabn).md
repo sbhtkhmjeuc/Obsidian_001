@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## DeFi
 
 - [ ] https://www.techtarget.com/searchsecurity/tip/Top-blockchain-security-attacks-hacks-and-issues
+- [ ] https://steelkiwi.com/blog/making-effective-use-of-smart-contracts/ #i/🟨
 
 
 ## Personal Projects

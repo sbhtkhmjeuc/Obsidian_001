@@ -15,6 +15,29 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "5ea6acff41f0c376",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DeFi Tutorial.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ee9d415fd8846f0d",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Important Projects (Kanabn).md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -87,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-07-17.md",
+                "file": "DeFi Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "638ce166c208cd27",
@@ -128,13 +150,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "635b6b5e154c22cf",
+  "active": "5ea6acff41f0c376",
   "lastOpenFiles": [
-    "Daily Notes/2022-07-16.md",
-    "DeFi index.md",
     "Daily Notes/2022-07-17.md",
-    "Mother Board.md"
+    "DeFi Tutorial.md",
+    "Important Projects (Kanabn).md",
+    "51% Attack On Blockchain.md",
+    "Ethereum LAYER 2 SCALING Explained.md",
+    "DeFi index.md",
+    "Mother Board.md",
+    "Daily Notes/2022-07-16.md"
   ]
 }
