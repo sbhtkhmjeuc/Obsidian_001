@@ -49,6 +49,7 @@ kits
 kernel
 kit
 kasm
+kanban
 plugin
 pub
 psh
@@ -210,6 +211,8 @@ portableapps
 profile
 plus
 partition
+plugin
+pub
 basic
 betterprogramming
 blockchain
@@ -325,6 +328,13 @@ boxing
 bufferzonesecurity
 break
 blockchannel
+basic
+blockchain
+blog
+blockchannel
+bot
+bsLmDfvF
+betterprogramming
 DeFi
 Done
 Daily
@@ -471,6 +481,9 @@ DON
 Download
 Delete
 Disable
+DeFi
+Done
+Day
 https
 hacks
 here
@@ -587,6 +600,9 @@ hacked
 hackers
 hush
 host
+https
+hacks
+here
 www
 watch
 without
@@ -688,6 +704,9 @@ worth
 windows
 workspace
 worry
+www
+watch
+want
 youtube
 you
 year
@@ -727,6 +746,8 @@ yr
 ye
 yt
 yv
+youtube
+you
 com
 contract
 configure
@@ -941,6 +962,14 @@ cpu
 check
 class
 contained
+completion
+com
+contracts
+configure
+changes
+computer
+contract
+create
 BX
 Business
 Book
@@ -1071,6 +1100,10 @@ BugMeNot
 Behavioral
 Browsing
 Bookmarks
+Bookmarks
+Board
+Brush
+Book
 <<<<<<< HEAD
 =======
 >>>>>>> cc033678dab62804d300a5799093e6954ff76b36
@@ -1272,6 +1305,20 @@ tell
 trough
 terminal
 turnkey
+to
+the
+tasks
+today
+techtarget
+tip
+trading
+them
+that
+top
+tools
+table
+things
+tomorrow
 smart
 searchsecurity
 security
@@ -1466,6 +1513,14 @@ surfing
 shadowdefender
 sandboxie
 sandfox
+searchsecurity
+security
+steelkiwi
+smart
+solidity
+software
+serial
+settings
 developer
 df
 docs
@@ -1615,6 +1670,11 @@ dmidecode
 disk
 deep
 disable
+decentralized
+docs
+developer
+df
+day
 need
 notion
 number
@@ -1688,6 +1748,9 @@ now
 net
 nex
 nor
+new
+numbers
+need
 for
 from
 firewall
@@ -1790,6 +1853,9 @@ foe
 faronics
 freeze
 files
+for
+from
+firewall
 Top
 The
 Tags
@@ -1910,6 +1976,12 @@ Too
 Tuesday
 Temp
 TrustedBSD
+Tables
+Tasks
+Tutorial
+Try
+Top
+Teeth
 attacks
 and
 assessment
@@ -2068,6 +2140,11 @@ alone
 authentic
 adversary
 assert
+attacks
+and
+assert
+all
+achieve
 issues
 in
 indices
@@ -2186,6 +2263,9 @@ instillation
 insert
 isolation
 isolate
+in
+issues
+is
 Personal
 Projects
 Page
@@ -2311,6 +2391,10 @@ Popup
 Providing
 Physical
 Protect
+Personal
+Projects
+Planning
+Pray
 AI
 Achievements
 Action
@@ -2459,6 +2543,12 @@ Appupdater
 Avoidance
 Audience
 AppArmor
+Accomplishments
+Amount
+Actually
+About
+AI
+After
 ML
 Move
 Morning
@@ -2584,6 +2674,14 @@ Minimize
 MAC
 MotherBoard
 Microphone
+Me
+More
+ML
+MOGOkc
+Machine
+Mother
+Morning
+Mediation
 Learn
 Lowest
 Learning
@@ -2694,6 +2792,8 @@ Linux
 Library
 Lite
 Leak
+Look
+Learn
 OPNsense
 Opportunities
 Organize
@@ -2784,6 +2884,10 @@ OpenPuff
 Operating
 Online
 OPEN
+Out
+OPNsense
+OS
+Organize
 opnsense
 org
 on
@@ -2865,6 +2969,10 @@ often
 operation
 obvious
 opcode
+of
+opcode
+opnsense
+org
 VirtualBox
 VM
 Virtual
@@ -2939,6 +3047,8 @@ Verification
 Volume
 Venom
 VENOM
+VirtualBox
+Vacuum
 Ideas
 Index
 If
@@ -3139,6 +3249,7 @@ Whois
 WebMail
 Weaknesses
 Whonix
+Work
 Complete
 Currently
 Cybersecurity
@@ -3310,6 +3421,12 @@ Changer
 Configuration
 Cache
 Camera
+Cybersecurity
+Chainlink
+Check
+Course
+Collage
+Complete
 Home
 Highest
 How
@@ -3435,6 +3552,9 @@ Heimdal
 Hardware
 HardDrive
 Hardening
+Hour
+Hack
+How
 edd
 earlier
 experiences
@@ -3552,6 +3672,8 @@ expose
 escape
 environment
 evm
+effective
+evm
 Not
 Number
 No
@@ -3645,6 +3767,7 @@ Ninite
 Never
 Numbers
 NAS
+Next
 Finished
 Fix
 FF
@@ -3759,6 +3882,7 @@ Functionality
 Flexera
 FilHippo
 Firejail
+Finish
 Reviewing
 Reviewed
 Read
@@ -3877,6 +4001,12 @@ Regular
 Registration
 REQUEST
 Run
+Reach
+Rooms
+Reminder
+Read
+Review
+Reading
 Subjects
 Setup
 Suffering
@@ -4027,6 +4157,8 @@ Sand
 Sandboxes
 SELinux
 Seatbelt
+Solidity
+Subject
 more
 make
 my
@@ -4156,6 +4288,8 @@ microsoft
 manager
 mcJdZok
 maxthon
+making
+medium
 get
 grow
 grateful
@@ -4348,6 +4482,9 @@ relaying
 registering
 required
 revert
+revert
+require
+room
 usual
 use
 update
@@ -4432,6 +4569,8 @@ unauthorized
 updated
 urlvoid
 ubuntu
+use
+unique
 END
 Enjoy
 Evening
@@ -4559,6 +4698,8 @@ Email
 Episode
 Emails
 Enter
+Eat
+Evening
 lemonade
 lazy
 leave
@@ -4751,6 +4892,7 @@ YP
 YJ
 YUF
 YOU
+Yoga
 Goal
 Guest
 Gmail
@@ -4844,6 +4986,8 @@ Gov
 Gamal
 Gxc
 Grsecurity
+Goal
+Google
 Kali
 Knows
 Kit
@@ -4909,6 +5053,8 @@ Kingdom
 KB
 KVM
 Kasm
+Kali
+Keep
 JYwy
 Jump
 JJJ
@@ -4984,6 +5130,7 @@ JJu
 Java
 Journey
 Jails
+JYwy
 URL
 Users
 US
