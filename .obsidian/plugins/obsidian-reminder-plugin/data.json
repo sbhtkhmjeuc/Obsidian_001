@@ -3,19 +3,9 @@
   "reminders": {
     "Important Projects (Kanabn).md": [
       {
-        "title": "How \"Macchanger\" Works",
-        "time": "2022-07-18 12:33",
-        "rowNumber": 22
-      },
-      {
-        "title": "Look for software that changes serial numbers of unique numbers in the computer (Kali Machine)",
-        "time": "2022-07-18 13:41",
-        "rowNumber": 20
-      },
-      {
         "title": "Learn OS #i/🟥",
         "time": "2022-07-18 15:15",
-        "rowNumber": 21
+        "rowNumber": 20
       },
       {
         "title": "Learn OPNsense from here (https://docs.opnsense.org/) and configure the firewall in VirtualBox",

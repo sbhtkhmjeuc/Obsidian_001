@@ -98,51 +98,7 @@ in Ethereum and Bitcoin uses the <mark style="background: #BBFABBA6;">Nakamoto C
 we said earlier that the Gas Price is a demonstration of the Demand in the market, and because there is a limit for computational power in the Nodes, and more people wants to make transaction the Gas Price will go up (because is will get more expensive to make a transaction in the block chain).
 <mark style="background: #CACFD9A6;">Sharding</mark> - **Blockchain of blockchains** ,the horizontal spread of processing power instead of continuously adding it to one blockchain, in ETH 1.0 and Bitcoin you can use <mark style="background: #BBFABBA6;">Layer 2 Solutions</mark> ([[Ethereum LAYER 2 SCALING Explained]]) to do that, when ETH 2.0 will come out this problem will be treated because the blockchain can start multiple "Races" at once and create blocks faster. 
 ## Welcome to Remix
-```solidity
-// SPDX-License-Identifier: MIT
-
-
-pragma solidity >=0.6.0 <0.9.0; //Solidity Verison, this says from version 0.6.0 (included) to 0.9.0 (Not-Included)
-
-contract SimpleStorage { // Creating a Contract
-
-uint256 favoriteNumber;
-
-
-
-struct People { // Building a Struct
-
-uint256 favoriteNumber;
-
-string name;
-
-}
-
-People[] public people; // an arrays of a "People" Struct
-
-mapping(string => uint256) public nameToFavoriteNumber; // Helps you to map, means that you can enter a name (String) of a person and get their favoriteNumber (uint256)
-
-function store(uint256 _favoriteNumber) public {
-
-favoriteNumber = _favoriteNumber;
-
-}
-
-function retrieve() public view returns (uint256){
-
-return favoriteNumber;
-
-}
-
-function addPerson(string memory _name, uint256 _favoriteNumber) public {
-
-people.push(People(_favoriteNumber, _name)); // adding the new person to the "People" array
-nameToFavoriteNumber[_name] = _favoriteNumber; // adding the new person to the mapping struct, that is would be found.
-
-}
-
-}
-```
+the Code is from the Video with personal notes: [[Solidity.sol]]
 
 you can use in the version declaration `^`, which will mean that the contract will support sub-versions of what was written, For Example `^0.6.0` means that we can use `0.6.1`, `0.6.2` , `0.6.3` ... <mark style="background: #FF5582A6;">0.7.0</mark> (Not-included)., or you can also write the exact version of solidity (Example : `0.6.0`).
 
