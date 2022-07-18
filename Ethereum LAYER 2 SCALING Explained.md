@@ -3,7 +3,7 @@ Type : #t/YouTube
 Time Created : 2022-07-05 19:21
 Last Modified : 2022-07-05 19:21
 Subjects: #s/DeFi 
-Progress: #p/🟠 
+Progress: #p/🟡 
 URL: https://www.youtube.com/watch?v=BgCgauWVTs0
 Publisher: #psh/Finematics
 Priority: #i/🟥 
@@ -16,7 +16,7 @@ are allowing the participants to make transactions off-chain and make only two t
 ![[Pasted image 20220705200250.png]]
 ![[Pasted image 20220705200750.png]]
 
-## Plasma
+## <mark style="background: #FF5582A6;">Plasma</mark> 
 ## Side Chains
 are independent block of that are compatible with Ethereum, the side chain can has it's own rules for block parameters. Because the EVM (Ethereum Virtual Machine) is also the one that the side chain is using that means that any smart contract that can be uploaded into Ethereum public Blockchain can be used in the side chains, each Side Chain can have it's own consensus models (for example : Proof-Of-Stake) and at the end getting uploaded to the Ethereum Public Blockchain.
 
@@ -31,4 +31,4 @@ means that it thinks that everyone is telling the truth, once there is an invali
 for the system to know that there was a invalid withdrawal other parties in the system need to send a fraud proof, because of that some times it takes a lot of time (sometime up to a week) for a party to get there withdrawals.  
 
 ### ZKRollups
-Stands for Zero-Knowledge Rollups, 
+Stands for Zero-Knowledge Rollups, that uses the ZK-SNARK cryptographic idea for verification that it's blockchain valid. 

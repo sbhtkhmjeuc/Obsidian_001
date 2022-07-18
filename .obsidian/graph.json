@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
-  "search": "tag:#p/🟠",
+  "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,

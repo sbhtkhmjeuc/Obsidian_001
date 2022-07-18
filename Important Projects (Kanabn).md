@@ -16,8 +16,9 @@ kanban-plugin: basic
 - [ ] Learn OPNsense from here (https://docs.opnsense.org/) and configure the firewall in VirtualBox @{2022-07-23}
 - [ ] https://www.youtube.com/watch?v=JYwy4MOGOkc #i/🟩
 - [ ] Check (https://www.youtube.com/watch?v=-bsLmDfvF1Y) After OS Course
-- [ ] Look for software that changes serial numbers of unique numbers in the computer (Kali Machine)
-- [ ] Learn OS #i/🟥
+- [ ] Look for software that changes serial numbers of unique numbers in the computer (Kali Machine) @{2022-07-18}@@{10:15}
+- [ ] Learn OS #i/🟥 @{2022-07-18}@@{15:15}
+- [ ] How "Macchanger" Works @{2022-07-18} @@{10:15}
 
 
 ## Work Projects

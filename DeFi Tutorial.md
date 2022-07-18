@@ -7,6 +7,9 @@ Progress: #p/🟠
 URL: https://www.youtube.com/watch?v=M576WGiDBdQ 
 Priority: #i/🟧 
 GitHub Link for the Itinerary : https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+Cheat Sheet Solidity : 
+	https://github.com/manojpramesh/solidity-cheatsheet
+	https://docs.soliditylang.org/en/v0.8.15/cheatsheet.html
 
 ## Welcome to Blockchain
 Smart Contracts are self executing sets of instructions, without 3rd parties. But they have a big problem, <mark style="background: #CACFD9A6;">The Oracle Problem</mark>, the blockchain itself is a deterministic systems which means that everything that is happening in and doesn't connecting to the whole world, but for the smart contracts to have a more capabilities and to do more stuff they have to connect to the outside world, that's where <mark style="background: #CACFD9A6;">Oracles</mark> comes into play, oracles are connecting the world with the smart contract. (but because the Blockchain is Decentralized and the data that they get has to be Decentralized for the Blockchain to continue to be Decentralized).

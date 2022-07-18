@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-07-17.md",
+            "file": "Daily Notes/2022-07-18.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "163d815345bab51f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mother Board.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeFi Tutorial.md",
+                "file": "Mother Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,23 +158,33 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "0477c9421809012f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "5ea6acff41f0c376",
+  "active": "163d815345bab51f",
   "lastOpenFiles": [
-    "Daily Notes/2022-07-17.md",
     "DeFi Tutorial.md",
     "Important Projects (Kanabn).md",
-    "51% Attack On Blockchain.md",
-    "Ethereum LAYER 2 SCALING Explained.md",
-    "DeFi index.md",
     "Mother Board.md",
+    "Daily Notes/2022-07-18.md",
+    "DeFi index.md",
+    "Daily Notes/2022-07-17.md",
+    "Courses/The Complete Cyber Security Course Network Securit.md",
+    "Ethereum LAYER 2 SCALING Explained.md",
+    "51% Attack On Blockchain.md",
     "Daily Notes/2022-07-16.md"
   ]
 }
