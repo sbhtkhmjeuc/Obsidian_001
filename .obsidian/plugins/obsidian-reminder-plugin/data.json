@@ -1,19 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "Important Projects (Kanabn).md": [
-      {
-        "title": "Learn OS #i/🟥",
-        "time": "2022-07-18 15:15",
-        "rowNumber": 20
-      },
-      {
-        "title": "Learn OPNsense from here (https://docs.opnsense.org/) and configure the firewall in VirtualBox",
-        "time": "2022-07-23",
-        "rowNumber": 17
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "00:00",

@@ -1,0 +1,7 @@
+https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt
+https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e
+https://www.youtube.com/watch?v=M576WGiDBdQ&t=7699s
+https://remix.ethereum.org/#url=https://docs.chain.link/samples/PriceFeeds/PriceConsumerV3.sol&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js
+https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol
+https://www.tutorialspoint.com/solidity/solidity_interfaces.htm
+https://kovan.etherscan.io/address/0x9326BFA02ADD2366b30bacB125260Af641031331#code

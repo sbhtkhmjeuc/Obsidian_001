@@ -71,11 +71,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "168ed351f9cebf77",
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeFi Tutorial.md",
+                "file": "Daily Notes/2022-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3f77ab9adb6790d",
+  "active": "898459b8a6cc8a0a",
   "lastOpenFiles": [
-    "Daily Notes/2022-07-18.md",
     "DeFi Tutorial.md",
+    "Daily Notes/2022-07-18.md",
     "Courses/The Complete Cyber Security Course Hackers Exposed.md",
     "Important Projects (Kanabn).md",
     "DeFi index.md",
