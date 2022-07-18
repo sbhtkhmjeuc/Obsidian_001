@@ -18,19 +18,24 @@
         "rowNumber": 12
       },
       {
+        "title": "https://www.youtube.com/watch?v=iRQw2RpQAVc",
+        "time": "2022-07-19",
+        "rowNumber": 13
+      },
+      {
         "title": "Learn OPNsense from here (https://docs.opnsense.org/) and configure the firewall in VirtualBox",
         "time": "2022-07-23",
-        "rowNumber": 18
+        "rowNumber": 19
       },
       {
         "title": "Learn OS #i/🟥",
         "time": "2022-07-19",
-        "rowNumber": 21
+        "rowNumber": 22
       },
       {
         "title": "Read the Subject and Learn them (in the Bookmarks)",
         "time": "2022-07-23",
-        "rowNumber": 26
+        "rowNumber": 27
       }
     ]
   },

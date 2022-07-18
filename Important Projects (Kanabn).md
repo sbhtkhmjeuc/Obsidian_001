@@ -11,6 +11,7 @@ kanban-plugin: basic
 - [ ] Learn More About Chainlink @{2022-07-19}
 - [ ] Learn How Chainlink is decentralized @{2022-07-19}
 - [ ] Check (https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e) @{2022-07-19}
+- [ ] https://www.youtube.com/watch?v=iRQw2RpQAVc @{2022-07-19}
 
 
 ## Personal
