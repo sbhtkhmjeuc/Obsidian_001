@@ -28,6 +28,16 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "671c6c2bf278e2b8",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Important Projects (Kanabn).md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -145,12 +155,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "898459b8a6cc8a0a",
+  "active": "ee9d415fd8846f0d",
   "lastOpenFiles": [
+    "Important Projects (Kanabn).md",
     "DeFi Tutorial.md",
     "Daily Notes/2022-07-18.md",
     "Courses/The Complete Cyber Security Course Hackers Exposed.md",
-    "Important Projects (Kanabn).md",
     "DeFi index.md",
     "Mother Board.md",
     "Daily Notes/2022-07-17.md",
