@@ -178,3 +178,15 @@ Example - `function retrieve() public view returns (uint256)` :
 `memory` - is a keyword used to store data for the execution of a contract. It holds functions argument data and is wiped after execution.
 `storage` - can be seen as the default solidity data storage. It holds data persistently and consumes more gas.
 ![[Pasted image 20220717163044.png]]
+
+## Storage Factory
+<mark style="background: #BBFABBA6;">StorageFactory.sol</mark> - https://github.com/PatrickAlphaC/storage_factory/blob/main/StorageFactory.sol
+
+<mark style="background: #CACFD9A6;">Factory Pattern</mark> - we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
+
+you can do that in solidity be adding the contract that you want into the current contract that you are working on, <mark style="background: #CACFD9A6;">the contract that you're working on and the one that you want to import have to in the same folder</mark> to do this you type for example `import "./SimpleStorage.sol";`.(<mark style="background: #BBFABBA6;">when you import a Contract you're defining all of it's Function.</mark> )
+but to use that contract you need to create one inside for the current contract that you are working on, you can do this by typing for example `SimpleStorage simpleStorage = new SimpleStorage();` this creates a new contract, which you can after enter into an array. 
+after you create a contract, you'll need to interact with his functions, to do that you need two things <mark style="background: #CACFD9A6;">Address of the contract</mark> and <mark style="background: #CACFD9A6;">ABI</mark>, you can type for example: `SimpleStorage(address(simpleStorageArray[_simpleStorageIndex])).store(_simpleStorageNumber);`, you can see that we uses the `store()` function that is a part of the `SimpleStorage` contract on the `SimpleStorage` contract instance that we created before. (when you create a Factory pattern inside a contract, to use his function you'll have to use it like that `CONTRACT(address(NEW_CONTRACT_INSTANCE))`)
+
+you can also like in Java use Inheritance in Solidity by typing in the contract declaration `is CONTRACT`, this will add of the `CONTRACT` functions and variables to the current contract.
+

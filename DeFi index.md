@@ -63,6 +63,7 @@ Openzeppelin (Oracle Network) <mark style="background: #BBFABBA6;">Works Well wi
 ## Tools (Web)
 https://faucet.rinkeby.io/
 https://remix.ethereum.org/
+https://www.npmjs.com
 
 ## Docs 
 https://docs.polygon.technology/
