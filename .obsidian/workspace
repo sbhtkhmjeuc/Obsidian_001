@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9726a8c593359849",
+        "id": "8e5952a5051e7a82",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Uniswap Smart Contract Breakdown.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Uniswap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Uniswap Smart Contract Breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9726a8c593359849",
+  "active": "8e5952a5051e7a82",
   "lastOpenFiles": [
-    "Leumi/AGAM.md",
     "Mother Board.md",
+    "Uniswap Smart Contract Breakdown.md",
+    "Templates/Article.md",
+    "Uniswap DOC.md",
+    "DeFi Uncovered The State of DeFi.md",
     "Important Projects (Kanabn).md",
+    "Leumi/AGAM.md",
     "DeFi Tutorial.md",
     "Daily Notes/2022-07-19.md",
-    "DeFi index.md",
-    "Daily Notes/2022-07-18.md",
-    "Courses/The Complete Cyber Security Course Hackers Exposed.md",
-    "Daily Notes/2022-07-17.md",
-    "Pasted image 20220608181746.png"
+    "DeFi index.md"
   ]
 }
