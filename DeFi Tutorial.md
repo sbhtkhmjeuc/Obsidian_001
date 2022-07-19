@@ -146,3 +146,13 @@ after you create a contract, you'll need to interact with his functions, to do t
 
 you can also like in Java use Inheritance in Solidity by typing in the contract declaration `is CONTRACT`, this will add of the `CONTRACT` functions and variables to the current contract.
 
+## FundMe
+the Code of this portion of the video : https://github.com/PatrickAlphaC/fund_me/blob/main/FundMe.sol
+ETH Converter - https://eth-converter.com/
+
+<mark style="background: #CACFD9A6;">payable</mark> - a key-word in solidity, you can add `payable` for a function which will make it **accept payment in ETH**, the amount that will be sent as payment is the amount that is appended to the transaction call, Example for a Function Header `function fund() public payable{...}` 
+
+when you make a any kind of transaction there is an info that is sent with the transaction that you can view (https://docs.soliditylang.org/en/v0.8.15/units-and-global-variables.html?highlight=msg#block-and-transaction-properties), these attributes are relative to the function, which means that in every function or constructor, once you transact something, these attributes will change.
+
+<mark style="background: #CACFD9A6;">The Block and Transaction Properties, in a constructor are those of the Deployer (the person how deployed the contract), because a constructor is a function that is running as soon as the contract deployed to the Blockchain and putting a contract on the network is kind of a transaction between the deployer and the Blockchain.</mark> 
+

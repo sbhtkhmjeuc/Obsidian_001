@@ -3,12 +3,12 @@
 ## Morning
 
 - [ ]  Work Out | Yoga
-- [ ]  Planning the day (create a table of all of the things that you want to achieve) 
+- [x]  Planning the day (create a table of all of the things that you want to achieve) 
 - [ ]  Pray
-- [ ]  Eat
+- [x]  Eat
 - [ ]  Brush Teeth
 - [ ]  Mediation
-- [ ]  Read the "獨行道"
+- [x]  Read the "獨行道"
 
 ## Evening
 - [x] Brush Teeth
@@ -18,6 +18,3 @@
 - [x] Check the Work Out for tomorrow
 - [x] Reading a Book
 - [x] Vacuum the room 
----
-- [ ] Reach to Hour 5 in the Solidity Tutorial 
-- [ ] Finish 2 Rooms to completion in Try Hack Me
