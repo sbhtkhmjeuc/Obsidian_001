@@ -4,52 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f77ab9adb6790d",
+        "id": "9726a8c593359849",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DeFi Tutorial.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "671c6c2bf278e2b8",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Important Projects (Kanabn).md"
-          }
-        }
-      },
-      {
-        "id": "438968107c9da01a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mother Board.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "34d086f5e46de090",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Daily Notes/2022-07-19.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -94,13 +53,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 268
   },
   "right": {
     "id": "168ed351f9cebf77",
@@ -124,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeFi Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3f77ab9adb6790d",
+  "active": "9726a8c593359849",
   "lastOpenFiles": [
-    "DeFi index.md",
-    "DeFi Tutorial.md",
+    "Leumi/AGAM.md",
     "Mother Board.md",
-    "Daily Notes/2022-07-19.md",
     "Important Projects (Kanabn).md",
+    "DeFi Tutorial.md",
+    "Daily Notes/2022-07-19.md",
+    "DeFi index.md",
     "Daily Notes/2022-07-18.md",
     "Courses/The Complete Cyber Security Course Hackers Exposed.md",
     "Daily Notes/2022-07-17.md",
-    "Pasted image 20220608181746.png",
-    "Pasted image 20220607204713.png"
+    "Pasted image 20220608181746.png"
   ]
 }

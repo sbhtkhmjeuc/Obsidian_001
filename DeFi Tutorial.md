@@ -156,3 +156,6 @@ when you make a any kind of transaction there is an info that is sent with the t
 
 <mark style="background: #CACFD9A6;">The Block and Transaction Properties, in a constructor are those of the Deployer (the person how deployed the contract), because a constructor is a function that is running as soon as the contract deployed to the Blockchain and putting a contract on the network is kind of a transaction between the deployer and the Blockchain.</mark> 
 
+once you sent funds for contract, the contract is now holding the funds. (and the developer who created the contract is also have access to the funds).
+
+now we want to contribute to the funds, in amount of dollar (or other currency), you can do that by using Chainlink (<mark style="background: #FF5582A6;">Add Chainlink explanation</mark>)

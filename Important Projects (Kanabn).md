@@ -8,7 +8,7 @@ kanban-plugin: basic
 
 - [ ] https://www.techtarget.com/searchsecurity/tip/Top-blockchain-security-attacks-hacks-and-issues
 - [ ] https://steelkiwi.com/blog/making-effective-use-of-smart-contracts/ #i/🟨
-- [ ] Learn More About Chainlink @{2022-07-19} @@{17:30}
+- [ ] Learn More About Chainlink (And how it's working by the Course Video) @{2022-07-19} @@{17:30}
 - [ ] Learn How Chainlink is decentralized @{2022-07-19} @@{17:30} @@{17:30}
 - [ ] Check (https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e) @{2022-07-19} @@{17:30}
 - [ ] https://www.youtube.com/watch?v=iRQw2RpQAVc @{2022-07-19} @@{17:30}
