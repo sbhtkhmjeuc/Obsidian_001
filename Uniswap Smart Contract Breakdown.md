@@ -43,3 +43,19 @@ there another Functionality that isn't a Core but it help for other contracts in
 
 ## Core - Pair
 Full Code of the Contract - https://github.com/Uniswap/v2-core/blob/master/contracts/UniswapV2Pair.sol
+
+Imports :
+![](https://miro.medium.com/max/1400/1*oLntXr5KxvEHYf5tMlUFYQ@2x.png)
+
+![](https://miro.medium.com/max/1400/1*q3vmNeyBiiHdtsvKapTXOg@2x.png)
+the contract name is `UniswapV2Pair`, implements `IUniswapV2Pair` (which is the interface for this contract) and also extends the `UniswapV2ERC20` (for managing the pool ownership tokens).
+`SafeMath` is a library for dealing with overflow/underflow. `UQ112x112` is a library for supporting floating numbers.
+
+### Managing funds
+a Uniswap Pair is an exchange between to ERC-20 Tokens, in this case `token0` and `token1`. 
+`reserve` variables store how much of the token we have in this pair.
+![](https://miro.medium.com/max/1400/1*PMakgpkYwY_yTpfIJ6m9nA@2x.png)
+
+The `reserve`'s variables are getting the balance from the `ERC-20` contract which is holding the tokens.
+ ![](https://miro.medium.com/max/1400/1*j4T8KVmNZhDekIC8O_zNtw.png)
+ 

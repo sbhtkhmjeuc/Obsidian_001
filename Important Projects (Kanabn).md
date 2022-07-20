@@ -8,10 +8,10 @@ kanban-plugin: basic
 
 - [ ] https://www.techtarget.com/searchsecurity/tip/Top-blockchain-security-attacks-hacks-and-issues
 - [ ] https://steelkiwi.com/blog/making-effective-use-of-smart-contracts/ #i/🟨
-- [ ] Learn More About Chainlink (And how it's working by the Course Video) @{2022-07-20}
+- [ ] Learn More About Chainlink (And how it's working by the Course Video) @{2022-07-20} @@{20:05}
 - [ ] Learn How Chainlink is decentralized   @@{17:30} @{2022-07-20}
-- [ ] Check (https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e) @{2022-07-20}
-- [ ] https://www.youtube.com/watch?v=iRQw2RpQAVc @{2022-07-20}
+- [ ] Check (https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e) @{2022-07-20} @@{20:05}
+- [ ] https://www.youtube.com/watch?v=iRQw2RpQAVc @{2022-07-20} @@{20:05}
 
 
 ## Personal
@@ -20,7 +20,7 @@ kanban-plugin: basic
 - [ ] Learn OPNsense from here (https://docs.opnsense.org/) and configure the firewall in VirtualBox @{2022-07-23}
 - [ ] https://www.youtube.com/watch?v=JYwy4MOGOkc #i/🟩
 - [ ] Check (https://www.youtube.com/watch?v=-bsLmDfvF1Y) After OS Course
-- [ ] Learn OS #i/🟥 @{2022-07-20}
+- [ ] Learn OS #i/🟥 @{2022-07-20} @@{20:05}
 
 
 ## Collage

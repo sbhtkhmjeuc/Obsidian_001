@@ -4,7 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5952a5051e7a82",
+        "id": "d3f77ab9adb6790d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DeFi Tutorial.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "671c6c2bf278e2b8",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Important Projects (Kanabn).md"
+          }
+        }
+      },
+      {
+        "id": "438968107c9da01a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mother Board.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e323956df6c5e6e9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -41,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Uniswap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268
+    "width": 300
   },
   "right": {
     "id": "168ed351f9cebf77",
@@ -139,17 +175,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e5952a5051e7a82",
+  "active": "e323956df6c5e6e9",
   "lastOpenFiles": [
-    "Pasted image 20220719222752.png",
-    "Uniswap Smart Contract Breakdown.md",
     "Mother Board.md",
+    "Uniswap Smart Contract Breakdown.md",
+    "Index Page.md",
+    "Daily Notes/2022-07-19.md",
+    "DeFi Tutorial.md",
+    "Daily Notes/2022-07-20.md",
+    "Pasted image 20220719222752.png",
     "Templates/Article.md",
     "Uniswap DOC.md",
-    "DeFi Uncovered The State of DeFi.md",
-    "Important Projects (Kanabn).md",
-    "Leumi/AGAM.md",
-    "DeFi Tutorial.md",
-    "Daily Notes/2022-07-19.md"
+    "DeFi Uncovered The State of DeFi.md"
   ]
 }
