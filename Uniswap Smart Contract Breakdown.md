@@ -56,6 +56,6 @@ a Uniswap Pair is an exchange between to ERC-20 Tokens, in this case `token0` an
 `reserve` variables store how much of the token we have in this pair.
 ![](https://miro.medium.com/max/1400/1*PMakgpkYwY_yTpfIJ6m9nA@2x.png)
 
-The `reserve`'s variables are getting the balance from the `ERC-20` contract which is holding the tokens.
+The `reserve`'s variables are getting the balance from the `ERC20` contract which is holding the tokens.
  ![](https://miro.medium.com/max/1400/1*j4T8KVmNZhDekIC8O_zNtw.png)
  

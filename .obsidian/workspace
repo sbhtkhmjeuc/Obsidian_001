@@ -32,7 +32,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mother Board.md",
+            "file": "ERC20 Smart Contract Breakdown.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "168ed351f9cebf77",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uniswap Smart Contract Breakdown.md",
+                "file": "ERC20 Smart Contract Breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e323956df6c5e6e9",
+  "active": "438968107c9da01a",
   "lastOpenFiles": [
     "Mother Board.md",
     "Uniswap Smart Contract Breakdown.md",
